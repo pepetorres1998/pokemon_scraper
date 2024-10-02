@@ -5,4 +5,6 @@ source "https://rubygems.org"
 gem 'sequel'
 gem 'rspec'
 gem 'sqlite3'
-gem 'database'
+gem 'httparty'
+gem 'nokogiri'
+gem 'pry'
