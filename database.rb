@@ -19,7 +19,7 @@ class Database
     @db.create_table :pokemons do
       primary_key :id
       String :name
-      Integer :pokedex_number
+      String :pokedex_number
       String :types
       String :abilities
       Integer :hp
